@@ -1,6 +1,6 @@
 {
     "name": "splashphp/core",
-    "description": "Php web framework",
+    "description": "The Splash framework",
     "keywords": [
         "microframework",
         "splashphp"
